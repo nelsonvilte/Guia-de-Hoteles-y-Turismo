@@ -1,5 +1,5 @@
-#Guía de Hoteles y Turismo
+# Guía de Hoteles y Turismo
 
-#Version Demostración
+# Version Demostración 1.0.0
 
-Desarrollo web del lado cliente, diseño responsive, grillas, y componentes CSS y Javascript de Bootstrap 4. Con preprocesadores de CSS, Less y Sass. Aplicación de conceptos básicos de Node.js y NPM para gestionar sitio web.
+Desarrollo web del lado cliente, diseño responsive, grillas, componentes CSS y Javascript de Bootstrap 4. Con preprocesadores de CSS, Less y Sass. Aplicación de conceptos básicos de Node.js y NPM. 
